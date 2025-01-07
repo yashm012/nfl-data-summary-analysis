@@ -5,7 +5,7 @@ week,game_id,playoff,home_team,home_score,away_score,away_team,favorite,spread,o
 1,4,FALSE,Chicago,19,10,San Francisco,SF,-6.5,38
 1,5,FALSE,Cincinnati,20,23,Pittsburgh,CIN,-7,44.5
 1,6,FALSE,Houston,20,20,Indianapolis,IND,-7,45.5
-1,7,FALSE,Detroit,35,38,Philedelphia,PHI,-5.5,48.5
+1,7,FALSE,Detroit,35,38,Philadelphia,PHI,-5.5,48.5
 1,8,FALSE,Washington,28,22,Jacksonville,WAS,-3,43
 1,9,FALSE,Miami,20,7,New England,MIA,-3,46.5
 1,10,FALSE,New York (J),9,24,Baltimore,BAL,-6.5,44
@@ -30,7 +30,7 @@ week,game_id,playoff,home_team,home_score,away_score,away_team,favorite,spread,o
 2,29,FALSE,Denver,16,9,Houston,DEN,-10,45.5
 2,30,FALSE,Green Bay,27,10,Chicago,GB,-10,42
 2,31,FALSE,Buffalo,41,7,Tennessee,BUF,-10,47.5
-2,32,FALSE,Philedelphia,24,7,Minnesota,PHI,-2.5,49.5
+2,32,FALSE,Philadelphia,24,7,Minnesota,PHI,-2.5,49.5
 3,33,FALSE,Cleveland,29,17,Pittsburgh,CLE,-4.5,38
 3,34,FALSE,Miami,21,19,Buffalo,BUF,-4,54.5
 3,35,FALSE,Carolina,22,14,New Orleans,NO,-2,41
@@ -40,7 +40,7 @@ week,game_id,playoff,home_team,home_score,away_score,away_team,favorite,spread,o
 3,39,FALSE,Minnesota,28,24,Detroit,MIN,-6.5,51.5
 3,40,FALSE,New England,26,37,Baltimore,BAL,-2.5,44.5
 3,41,FALSE,Tennessee,24,22,Las Vegas,LVR,-2,45.5
-3,42,FALSE,Washington,8,24,Philedelphia,PHI,-6,47.5
+3,42,FALSE,Washington,8,24,Philadelphia,PHI,-6,47.5
 3,43,FALSE,Los Angeles (C),10,38,Jacksonville,LAC,-6.5,46.5
 3,44,FALSE,Seattle,23,27,Atlanta,SEA,-1,43.5
 3,45,FALSE,Arizona,12,20,Los Angeles (R),LAR,-3.5,48.5
@@ -56,7 +56,7 @@ week,game_id,playoff,home_team,home_score,away_score,away_team,favorite,spread,o
 4,55,FALSE,Dallas,25,10,Washington,DAL,-3,41
 4,56,FALSE,Detroit,45,48,Seattle,DET,-3.5,48.5
 4,57,FALSE,Houston,24,34,Los Angeles (C),LAC,-5.5,45
-4,58,FALSE,Philedelphia,29,21,Jacksonville,PHI,-6.5,44
+4,58,FALSE,Philadelphia,29,21,Jacksonville,PHI,-6.5,44
 4,59,FALSE,Pittsburgh,20,24,New York (J),PIT,-3,41
 4,60,FALSE,Carolina,16,26,Arizona,CAR,-1,43.5
 4,61,FALSE,Las Vegas,32,23,Denver,LVR,-2.5,45.5
@@ -75,7 +75,7 @@ week,game_id,playoff,home_team,home_score,away_score,away_team,favorite,spread,o
 5,74,FALSE,New Orleans,39,32,Seattle,NO,-5.5,45
 5,75,FALSE,Washington,17,21,Tennessee,TEN,-1,43
 5,76,FALSE,Carolina,15,37,San Francisco,SF,-6,40
-5,77,FALSE,Arizona,17,20,Philedelphia,PHI,-5.5,49
+5,77,FALSE,Arizona,17,20,Philadelphia,PHI,-5.5,49
 5,78,FALSE,Los Angeles (R),10,22,Dallas,LAR,-5,41.5
 5,79,FALSE,Baltimore,19,17,Cincinnati,BAL,-3,48
 5,80,FALSE,Kansas City,30,29,Las Vegas,KC,-7,51.5
@@ -91,7 +91,7 @@ week,game_id,playoff,home_team,home_score,away_score,away_team,favorite,spread,o
 6,90,FALSE,Los Angeles (R),24,10,Carolina,LAR,-10,41
 6,91,FALSE,Seattle,19,9,Arizona,ARI,-2.5,50.5
 6,92,FALSE,Kansas City,20,24,Buffalo,BUF,-2.5,54
-6,93,FALSE,Philedelphia,26,17,Dallas,PHI,-6.5,42.5
+6,93,FALSE,Philadelphia,26,17,Dallas,PHI,-6.5,42.5
 6,94,FALSE,Los Angeles (C),19,16,Denver,LAC,-4,45.5
 7,95,FALSE,Arizona,42,34,New Orleans,ARI,-2.5,43.5
 7,96,FALSE,Cincinnati,35,17,Atlanta,CIN,-6.5,47.5
@@ -108,7 +108,7 @@ week,game_id,playoff,home_team,home_score,away_score,away_team,favorite,spread,o
 7,107,FALSE,Miami,16,10,Pittsburgh,MIA,-7,44
 7,108,FALSE,New England,14,33,Chicago,NE,-8.5,40
 8,109,FALSE,Tampa Bay,22,27,Baltimore,TB,-2,46
-8,110,FALSE,Philedelphia,35,13,Pittsburgh,PHI,-11.5,43
+8,110,FALSE,Philadelphia,35,13,Pittsburgh,PHI,-11.5,43
 8,111,FALSE,New York (J),17,22,New England,NE,-3,40
 8,112,FALSE,New Orleans,24,0,Las Vegas,LVR,-1,48.5
 8,113,FALSE,Minnesota,34,26,Arizona,MIN,-4,48.5
@@ -122,7 +122,7 @@ week,game_id,playoff,home_team,home_score,away_score,away_team,favorite,spread,o
 8,121,FALSE,Buffalo,27,17,Green Bay,BUF,-10.5,47
 8,122,FALSE,Cleveland,32,13,Cincinnati,CIN,-3,45
 8,123,FALSE,Jacksonville,17,21,Denver,JAX,-1,40.5
-9,124,FALSE,Houston,17,29,Philedelphia,PHI,-14,45.5
+9,124,FALSE,Houston,17,29,Philadelphia,PHI,-14,45.5
 9,125,FALSE,New England,26,3,Indianapolis,NE,-5,40
 9,126,FALSE,Detroit,15,9,Green Bay,GB,-4,49.5
 9,127,FALSE,Atlanta,17,20,Los Angeles (C),LAC,-2.5,49.5
@@ -148,13 +148,13 @@ week,game_id,playoff,home_team,home_score,away_score,away_team,favorite,spread,o
 10,147,FALSE,Green Bay,31,28,Dallas,DAL,-3.5,44.5
 10,148,FALSE,Los Angeles (R),17,27,Arizona,LAR,-3.5,38
 10,149,FALSE,San Francisco,22,16,Los Angeles (C),SF,-8,45.5
-10,150,FALSE,Philedelphia,21,32,Washington,PHI,-11,43
+10,150,FALSE,Philadelphia,21,32,Washington,PHI,-11,43
 11,151,FALSE,Green Bay,17,27,Tennessee,GB,-3,40.5
 11,152,FALSE,Atlanta,27,24,Chicago,ATL,-2.5,48.5
 11,153,FALSE,Baltimore,13,3,Carolina,BAL,-12.5,41.5
 11,154,FALSE,Buffalo,31,23,Cleveland,BUF,-7.5,50.5
 11,155,FALSE,Houston,10,23,Washington,WAS,-3,41
-11,156,FALSE,Indianapolis,16,17,Philedelphia,PHI,-6,45
+11,156,FALSE,Indianapolis,16,17,Philadelphia,PHI,-6,45
 11,157,FALSE,New England,10,3,New York (J),NE,-3.5,38
 11,158,FALSE,New Orleans,27,20,Los Angeles (R),NO,-2.5,39.5
 11,159,FALSE,New York (G),18,31,Detroit,NYG,-3,44.5
@@ -177,12 +177,12 @@ week,game_id,playoff,home_team,home_score,away_score,away_team,favorite,spread,o
 12,176,FALSE,Arizona,24,25,Los Angeles (C),LAC,-2.5,48.5
 12,177,FALSE,Kansas City,26,10,Los Angeles (R),KC,-15.5,42
 12,178,FALSE,San Francisco,13,0,New Orleans,SF,-8.5,43.5
-12,179,FALSE,Philedelphia,40,33,Green Bay,PHI,-6.5,46.5
+12,179,FALSE,Philadelphia,40,33,Green Bay,PHI,-6.5,46.5
 12,180,FALSE,Indianapolis,17,24,Pittsburgh,IND,-2.5,39.5
 13,181,FALSE,New England,10,24,Buffalo,BUF,-4,44
 13,182,FALSE,Baltimore,10,9,Denver,BAL,-9,40
 13,183,FALSE,Minnesota,27,22,New York (J),MIN,-3,44
-13,184,FALSE,Philedelphia,35,10,Tennessee,PHI,-4.5,44.5
+13,184,FALSE,Philadelphia,35,10,Tennessee,PHI,-4.5,44.5
 13,185,FALSE,Houston,14,27,Cleveland,CLE,-7.5,46.5
 13,186,FALSE,New York (G),20,20,Washington,WAS,-2.5,40.5
 13,187,FALSE,Detroit,40,14,Jacksonville,DET,-1,51
@@ -196,7 +196,7 @@ week,game_id,playoff,home_team,home_score,away_score,away_team,favorite,spread,o
 13,195,FALSE,Tampa Bay,17,16,New Orleans,TB,-3,40.5
 14,196,FALSE,Los Angeles (R),17,16,Las Vegas,LVR,-6.5,41.5
 14,197,FALSE,Detroit,34,23,Minnesota,DET,-2,51.5
-14,198,FALSE,New York (G),22,48,Philedelphia,PHI,-7,44.5
+14,198,FALSE,New York (G),22,48,Philadelphia,PHI,-7,44.5
 14,199,FALSE,Buffalo,20,12,New York (J),BUF,-10,43.5
 14,200,FALSE,Cincinnati,23,10,Cleveland,CIN,-4,47
 14,201,FALSE,Dallas,27,23,Houston,DAL,-17,44.5
@@ -211,7 +211,7 @@ week,game_id,playoff,home_team,home_score,away_score,away_team,favorite,spread,o
 15,210,FALSE,Minnesota,39,36,Indianapolis,MIN,-3.5,47
 15,211,FALSE,Cleveland,13,3,Baltimore,CLE,-3,39
 15,212,FALSE,Buffalo,32,29,Miami,BUF,-7,43.5
-15,213,FALSE,Chicago,20,25,Philedelphia,PHI,-8.5,48
+15,213,FALSE,Chicago,20,25,Philadelphia,PHI,-8.5,48
 15,214,FALSE,Houston,24,30,Kansas City,KC,-14.5,48.5
 15,215,FALSE,Jacksonville,40,34,Dallas,DAL,-4,48
 15,216,FALSE,New York (J),17,20,Detroit,NYJ,-2,44
@@ -233,7 +233,7 @@ week,game_id,playoff,home_team,home_score,away_score,away_team,favorite,spread,o
 16,232,FALSE,Cleveland,10,17,New Orleans,CLE,-3,32
 16,233,FALSE,Baltimore,17,9,Atlanta,BAL,-6.5,35
 16,234,FALSE,San Francisco,37,20,Washington,SF,-6.5,37
-16,235,FALSE,Dallas,40,34,Philedelphia,DAL,-4,48
+16,235,FALSE,Dallas,40,34,Philadelphia,DAL,-4,48
 16,236,FALSE,Pittsburgh,13,10,Las Vegas,PIT,-2,38
 16,237,FALSE,Miami,20,26,Green Bay,MIA,-3.5,49.5
 16,238,FALSE,Los Angeles (R),51,14,Denver,DEN,-3,36
@@ -241,7 +241,7 @@ week,game_id,playoff,home_team,home_score,away_score,away_team,favorite,spread,o
 16,240,FALSE,Indianapolis,3,20,Los Angeles (C),LAC,-3.5,44.5
 17,241,FALSE,Tennessee,13,27,Dallas,DAL,-14,40.5
 17,242,FALSE,Kansas City,27,24,Denver,KC,-12.5,45.5
-17,243,FALSE,Philedelphia,10,20,New Orleans,PHI,-5,42
+17,243,FALSE,Philadelphia,10,20,New Orleans,PHI,-5,42
 17,244,FALSE,Houston,3,31,Jacksonville,JAX,-3.5,43
 17,245,FALSE,New York (G),38,10,Indianapolis,NYG,-5.5,38.5
 17,246,FALSE,Detroit,41,10,Chicago,DET,-4.5,52.5
@@ -266,7 +266,7 @@ week,game_id,playoff,home_team,home_score,away_score,away_team,favorite,spread,o
 18,265,FALSE,New Orleans,7,10,Carolina,NO,-3.5,41.5
 18,266,FALSE,Pittsburgh,28,14,Cleveland,PIT,-2.5,40
 18,267,FALSE,Denver,31,28,Los Angeles (C),DEN,-6.5,39
-18,268,FALSE,Philedelphia,22,16,New York (G),PHI,-17,43
+18,268,FALSE,Philadelphia,22,16,New York (G),PHI,-17,43
 18,269,FALSE,San Francisco,38,13,Arizona,SF,-14.5,40
 18,270,FALSE,Seattle,19,16,Los Angeles (R),SEA,-4.5,43
 18,271,FALSE,Washington,26,6,Dallas,DAL,-7.5,41
@@ -278,9 +278,9 @@ WC,276,TRUE,Cincinnati,24,17,Baltimore,CIN,-8,40
 WC,277,TRUE,Minnesota,24,31,New York (G),MIN,-2.5,48
 WC,278,TRUE,Tampa Bay,14,31,Dallas,DAL,-2.5,45.5
 DIV,279,TRUE,Kansas City,27,20,Jacksonville,KC,-9.5,52
-DIV,280,TRUE,Philedelphia,38,7,New York (G),PHI,-8,48
+DIV,280,TRUE,Philadelphia,38,7,New York (G),PHI,-8,48
 DIV,281,TRUE,Buffalo,10,27,Cincinnati,BUF,-6,48.5
 DIV,282,TRUE,San Francisco,19,12,Dallas,SF,-3.5,46.5
 AFCCG,283,TRUE,Kansas City,23,20,Cincinnati,KC,-1.5,48
-NFCCG,284,TRUE,Philedelphia,31,7,San Francisco,PHI,-2.5,45.5
-SB,285,TRUE,Philedelphia,35,38,Kansas City,PHI,-1,51
+NFCCG,284,TRUE,Philadelphia,31,7,San Francisco,PHI,-2.5,45.5
+SB,285,TRUE,Philadelphia,35,38,Kansas City,PHI,-1,51
