@@ -5,7 +5,7 @@ week,game_id,home_team,away_team
 1,4,Chicago,San Francisco
 1,5,Cincinnati,Pittsburgh
 1,6,Houston,Indianapolis
-1,7,Detroit,Philedelphia
+1,7,Detroit,Philadelphia
 1,8,Washington,Jacksonville
 1,9,Miami,New England
 1,10,New York (J),Baltimore
@@ -30,7 +30,7 @@ week,game_id,home_team,away_team
 2,29,Denver,Houston
 2,30,Green Bay,Chicago
 2,31,Buffalo,Tennessee
-2,32,Philedelphia,Minnesota
+2,32,Philadelphia,Minnesota
 3,33,Cleveland,Pittsburgh
 3,34,Miami,Buffalo
 3,35,Carolina,New Orleans
@@ -40,7 +40,7 @@ week,game_id,home_team,away_team
 3,39,Minnesota,Detroit
 3,40,New England,Baltimore
 3,41,Tennessee,Las Vegas
-3,42,Washington,Philedelphia
+3,42,Washington,Philadelphia
 3,43,Los Angeles (C),Jacksonville
 3,44,Seattle,Atlanta
 3,45,Arizona,Los Angeles (R)
@@ -56,7 +56,7 @@ week,game_id,home_team,away_team
 4,55,Dallas,Washington
 4,56,Detroit,Seattle
 4,57,Houston,Los Angeles (C)
-4,58,Philedelphia,Jacksonville
+4,58,Philadelphia,Jacksonville
 4,59,Pittsburgh,New York (J)
 4,60,Carolina,Arizona
 4,61,Las Vegas,Denver
@@ -75,7 +75,7 @@ week,game_id,home_team,away_team
 5,74,New Orleans,Seattle
 5,75,Washington,Tennessee
 5,76,Carolina,San Francisco
-5,77,Arizona,Philedelphia
+5,77,Arizona,Philadelphia
 5,78,Los Angeles (R),Dallas
 5,79,Baltimore,Cincinnati
 5,80,Kansas City,Las Vegas
@@ -91,7 +91,7 @@ week,game_id,home_team,away_team
 6,90,Los Angeles (R),Carolina
 6,91,Seattle,Arizona
 6,92,Kansas City,Buffalo
-6,93,Philedelphia,Dallas
+6,93,Philadelphia,Dallas
 6,94,Los Angeles (C),Denver
 7,95,Arizona,New Orleans
 7,96,Cincinnati,Atlanta
@@ -108,7 +108,7 @@ week,game_id,home_team,away_team
 7,107,Miami,Pittsburgh
 7,108,New England,Chicago
 8,109,Tampa Bay,Baltimore
-8,110,Philedelphia,Pittsburgh
+8,110,Philadelphia,Pittsburgh
 8,111,New York (J),New England
 8,112,New Orleans,Las Vegas
 8,113,Minnesota,Arizona
@@ -122,7 +122,7 @@ week,game_id,home_team,away_team
 8,121,Buffalo,Green Bay
 8,122,Cleveland,Cincinnati
 8,123,Jacksonville,Denver
-9,124,Houston,Philedelphia
+9,124,Houston,Philadelphia
 9,125,New England,Indianapolis
 9,126,Detroit,Green Bay
 9,127,Atlanta,Los Angeles (C)
@@ -148,13 +148,13 @@ week,game_id,home_team,away_team
 10,147,Green Bay,Dallas
 10,148,Los Angeles (R),Arizona
 10,149,San Francisco,Los Angeles (C)
-10,150,Philedelphia,Washington
+10,150,Philadelphia,Washington
 11,151,Green Bay,Tennessee
 11,152,Atlanta,Chicago
 11,153,Baltimore,Carolina
 11,154,Buffalo,Cleveland
 11,155,Houston,Washington
-11,156,Indianapolis,Philedelphia
+11,156,Indianapolis,Philadelphia
 11,157,New England,New York (J)
 11,158,New Orleans,Los Angeles (R)
 11,159,New York (G),Detroit
@@ -177,12 +177,12 @@ week,game_id,home_team,away_team
 12,176,Arizona,Los Angeles (C)
 12,177,Kansas City,Los Angeles (R)
 12,178,San Francisco,New Orleans
-12,179,Philedelphia,Green Bay
+12,179,Philadelphia,Green Bay
 12,180,Indianapolis,Pittsburgh
 13,181,New England,Buffalo
 13,182,Baltimore,Denver
 13,183,Minnesota,New York (J)
-13,184,Philedelphia,Tennessee
+13,184,Philadelphia,Tennessee
 13,185,Houston,Cleveland
 13,186,New York (G),Washington
 13,187,Detroit,Jacksonville
@@ -196,7 +196,7 @@ week,game_id,home_team,away_team
 13,195,Tampa Bay,New Orleans
 14,196,Los Angeles (R),Las Vegas
 14,197,Detroit,Minnesota
-14,198,New York (G),Philedelphia
+14,198,New York (G),Philadelphia
 14,199,Buffalo,New York (J)
 14,200,Cincinnati,Cleveland
 14,201,Dallas,Houston
@@ -211,7 +211,7 @@ week,game_id,home_team,away_team
 15,210,Minnesota,Indianapolis
 15,211,Cleveland,Baltimore
 15,212,Buffalo,Miami
-15,213,Chicago,Philedelphia
+15,213,Chicago,Philadelphia
 15,214,Houston,Kansas City
 15,215,Jacksonville,Dallas
 15,216,New York (J),Detroit
@@ -233,7 +233,7 @@ week,game_id,home_team,away_team
 16,232,Cleveland,New Orleans
 16,233,Baltimore,Atlanta
 16,234,San Francisco,Washington
-16,235,Dallas,Philedelphia
+16,235,Dallas,Philadelphia
 16,236,Pittsburgh,Las Vegas
 16,237,Miami,Green Bay
 16,238,Los Angeles (R),Denver
@@ -241,7 +241,7 @@ week,game_id,home_team,away_team
 16,240,Indianapolis,Los Angeles (C)
 17,241,Tennessee,Dallas
 17,242,Kansas City,Denver
-17,243,Philedelphia,New Orleans
+17,243,Philadelphia,New Orleans
 17,244,Houston,Jacksonville
 17,245,New York (G),Indianapolis
 17,246,Detroit,Chicago
@@ -266,7 +266,7 @@ week,game_id,home_team,away_team
 18,265,New Orleans,Carolina
 18,266,Pittsburgh,Cleveland
 18,267,Denver,Los Angeles (C)
-18,268,Philedelphia,New York (G)
+18,268,Philadelphia,New York (G)
 18,269,San Francisco,Arizona
 18,270,Seattle,Los Angeles (R)
 18,271,Washington,Dallas
