@@ -284,3 +284,6 @@ DIV,282,TRUE,San Francisco,19,12,Dallas,SF,-3.5,46.5
 AFCCG,283,TRUE,Kansas City,23,20,Cincinnati,KC,-1.5,48
 NFCCG,284,TRUE,Philadelphia,31,7,San Francisco,PHI,-2.5,45.5
 SB,285,TRUE,Philadelphia,35,38,Kansas City,PHI,-1,51
+
+# Playoff games (game_id's from 273-285) were added after 272.csv and betting.csv were merged, according to the data in betting.csv. 
+# As game_id's for these games were not provided in 272.csv, they were imputed in the order in which they were played.
