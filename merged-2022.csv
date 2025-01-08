@@ -1,3 +1,6 @@
+# Playoff games (game_id's from 273-285) were added after 272.csv and betting.csv were merged, according to the data in betting.csv. 
+# As game_id's for these games were not provided in 272.csv, they were imputed in the order in which they were played.
+
 week,game_id,playoff,home_team,home_score,away_score,away_team,favorite,spread,over_under
 1,1,FALSE,Los Angeles (R),10,31,Buffalo,BUF,-2,52
 1,2,FALSE,Atlanta,26,27,New Orleans,NO,-5.5,44
