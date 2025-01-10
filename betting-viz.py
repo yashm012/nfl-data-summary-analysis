@@ -62,7 +62,7 @@ def determine_favored_team(row):
     elif away_similarity > home_similarity:
         return away_team
     else:
-        # Handle abbreviations (example)
+        # Handle abbreviations
         if favorite_id == "NE":
             favorite_id = "New England"
         elif favorite_id == "SF":
