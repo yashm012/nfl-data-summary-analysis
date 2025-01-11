@@ -2,7 +2,6 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
-import difflib
 
 data = pd.read_csv('merged-2022.csv')
 data['total_score'] = data['home_score'] + data['away_score']
@@ -21,7 +20,7 @@ playoff_data = data[data['game_id'] >= 273]
 
 # Countplot; reg_season_o/u.png
 plt.figure(figsize=(8, 6))
-sns.countplot(x='game_result', data=reg_season_data)
+sns.countplot(x='game_result', data=reg_season_data, order=['Over', 'Under'])
 plt.title('# of Regular Season Games Over/Under')
 plt.xlabel('Game Result')
 plt.ylabel('Count')
@@ -29,7 +28,7 @@ plt.show()
 
 # Playoff countplot; playoff_o/u.png
 plt.figure(figsize=(8, 6))
-sns.countplot(x='game_result', data=playoff_data, palette=['red'])
+sns.countplot(x='game_result', data=playoff_data, palette=['red'], order=['Over', 'Under'])
 plt.title('# of Playoff Games Over/Under')
 plt.xlabel('Game Result')
 plt.ylabel('Count')
@@ -39,7 +38,7 @@ plt.show()
 plt.figure(figsize=(8, 6))
 sns.boxplot(x='game_result', y='over_under_result', data=data,
             hue=data['game_id'].isin(playoff_game_ids).map({True: 'Playoffs', False: 'Regular Season'}),  # Map to strings
-            palette=['blue', 'red'])  # Choose colors for regular and playoff games
+            palette=['blue', 'red'], order=['Over', 'Under'])  # Choose colors for regular and playoff games
 plt.title('Over/Under Result Distribution')
 plt.xlabel('Game Result')
 plt.ylabel('Over/Under Result')
