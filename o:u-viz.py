@@ -20,7 +20,7 @@ playoff_data = data[data['game_id'] >= 273]
 
 # Countplot; reg_season_o/u.png
 plt.figure(figsize=(8, 6))
-sns.countplot(x='game_result', data=reg_season_data, order=['Over', 'Under'])
+sns.countplot(x='game_result', data=reg_season_data, palette=['blue'], order=['Over', 'Under'])
 plt.title('# of Regular Season Games Over/Under')
 plt.xlabel('Game Result')
 plt.ylabel('Count')
