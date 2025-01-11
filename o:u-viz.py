@@ -46,7 +46,7 @@ plt.ylabel('Over/Under Result')
 plt.legend(title='Game type', loc='upper right')  # Adjust legend location if needed
 plt.show()
 
-# team_o/u.png
+# Countplot; team_o/u.png
 # Create a new DataFrame to store team-wise over/under counts
 team_over_under = pd.DataFrame(columns=['team', 'over_count', 'under_count'])
 
