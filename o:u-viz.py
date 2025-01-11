@@ -76,7 +76,7 @@ team_over_under_long['game_result'] = team_over_under_long['game_result'].str.re
 
 
 plt.figure(figsize=(12, 6)) # Adjust figure size to accommodate all teams
-sns.barplot(x='team', y='count', hue='game_result', data=team_over_under_long, palette=['red', 'blue']) # Use barplot for count data
+sns.barplot(x='team', y='count', hue='game_result', data=team_over_under_long, palette=['black', 'gold']) # Use barplot for count data
 plt.title('# of Games Over/Under per Team')
 plt.xlabel('Teams')
 plt.ylabel('Count')
