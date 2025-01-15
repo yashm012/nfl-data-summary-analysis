@@ -1,6 +1,7 @@
 # Betting and Team stats for the 2022 NFl season **incomplete
 
 Raw data acquired and derived from: 
+
 272: https://www.kaggle.com/datasets/ruendymendozachavez/nfl-2023-season-dataset
 betting: https://www.kaggle.com/datasets/tobycrabtree/nfl-scores-and-betting-data?select=spreadspoke_scores.csv (spreadspoke_scores.csv)
 
