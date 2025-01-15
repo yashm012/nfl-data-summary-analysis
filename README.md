@@ -1,4 +1,4 @@
-# Betting and Team stats for the 2022 NFl season **incomplete
+# Betting and Team stats for the 2022 NFL season **incomplete
 
 Raw data (*raw_data*) acquired and derived from: 
 
@@ -12,6 +12,8 @@ The *merged-2022.csv* dataset contains key variables from both *272.csv* and *be
 
 note: the dataset from which *272.csv* was derived only includes data on the 2022 regular season; the remaining playoff data was added when merging with *betting.csv*
 
+note: when analyzing game spreads, you view it in the context of the favored team (see below)
+______________________________________________________________________________________________________________________________________________________
 
 key terms:
 - regular season (reg_season): all 32 teams in the NFL play 17 games over 18 weeks during the regular season; all stats with the *reg_season* label are from those first 272 games
