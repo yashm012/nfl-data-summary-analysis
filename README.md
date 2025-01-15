@@ -7,7 +7,7 @@ Raw data (*raw_data*) acquired and derived from:
 betting: https://www.kaggle.com/datasets/tobycrabtree/nfl-scores-and-betting-data?select=spreadspoke_scores.csv (spreadspoke_scores.csv)
 
 note: the first dataset says '2023-season', but this is mislabeled, as it contains the games/scores from the 2022 season, which ended in early 2023
-
+______________________________________________________________________________________________________________________________________________________
 The *merged-2022.csv* dataset contains key variables from both *272.csv* and *betting.csv* and was used for most if not all, visualizations in folder *viz*.
 
 note: the dataset from which *272.csv* was derived only includes data on the 2022 regular season; the remaining playoff data was added when merging with *betting.csv*
