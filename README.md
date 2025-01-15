@@ -6,3 +6,5 @@ betting: https://www.kaggle.com/datasets/tobycrabtree/nfl-scores-and-betting-dat
 
 note: the first dataset says '2023-season', but this is mislabaled, as these are the games/scores from the 2022 season, which ended in early 2023
 
+*merged-2022.csv* was used for most, if not all, visualizations in folder *viz*
+
