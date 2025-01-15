@@ -84,10 +84,10 @@ plt.show()
 
 # Countplot; reg_season_vs_spread.png
 team_performance = reg_season_data.groupby(['favored_team', 'covered'])['game_id'].count().reset_index()
-team_performance = team_performance.rename(columns={'game_id': 'game_count'})
+reg_team_performance = team_performance.rename(columns={'game_id': 'game_count'})
 
 plt.figure(figsize=(12, 6))  # Adjust figure size as needed
-sns.barplot(x='favored_team', y='game_count', hue='covered', data=team_performance,
+sns.barplot(x='favored_team', y='game_count', hue='covered', data=reg_team_performance,
             hue_order=['Covered', 'Not Covered'], palette=['blue', 'gold'])  # Specify hue_order
 plt.title('Team Performance Against the Spread When Favored')
 plt.xlabel('Team')
@@ -99,10 +99,10 @@ plt.show()
 
 # Countplot; playoff_vs_spread.png
 team_performance = playoff_data.groupby(['favored_team', 'covered'])['game_id'].count().reset_index()
-team_performance = team_performance.rename(columns={'game_id': 'game_count'})
+playoff_team_performance = team_performance.rename(columns={'game_id': 'game_count'})
 
 plt.figure(figsize=(12, 6))  # Adjust figure size as needed
-sns.barplot(x='favored_team', y='game_count', hue='covered', data=team_performance,
+sns.barplot(x='favored_team', y='game_count', hue='covered', data=playoff_team_performance,
             hue_order=['Covered', 'Not Covered'], palette=['red', 'gold'])  # Specify hue_order
 plt.title('Playoff Team Performance Against the Spread When Favored')
 plt.xlabel('Team')
