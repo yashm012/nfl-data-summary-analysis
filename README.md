@@ -8,10 +8,10 @@ betting: https://www.kaggle.com/datasets/tobycrabtree/nfl-scores-and-betting-dat
 
 note: the first dataset says '2023-season', but this is mislabeled, as it contains the games/scores from the 2022 season, which ended in early 2023
 
+The *merged-2022.csv* dataset contains key variables from both *272.csv* and *betting.csv* and was used for most if not all, visualizations in folder *viz*.
+
 note: the dataset from which *272.csv* was derived only includes data on the 2022 regular season; the remaining playoff data was added when merging with *betting.csv*
 
-
-The *merged-2022.csv* dataset contains key variables from both *272.csv* and *betting.csv* and was used for most if not all, visualizations in folder *viz*.
 
 key terms:
 - regular season (reg_season): all 32 teams in the NFL play 17 games over 18 weeks during the regular season; all stats with the *reg_season* label are from those first 272 games
