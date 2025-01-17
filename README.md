@@ -2,7 +2,7 @@
 
 Raw data (*raw_data*) acquired and derived from: 
 
-272: https://www.kaggle.com/datasets/ruendymendozachavez/nfl-2023-season-dataset
+272: https://www.kaggle.com/datasets/ruendymendozachavez/nfl-2023-season-dataset (nfl_2023_game_results.csv)
 
 betting: https://www.kaggle.com/datasets/tobycrabtree/nfl-scores-and-betting-data?select=spreadspoke_scores.csv (spreadspoke_scores.csv)
 
