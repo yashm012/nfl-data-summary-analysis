@@ -10,7 +10,7 @@ note: the first dataset says '2023-season', but this is mislabeled, as it contai
 ______________________________________________________________________________________________________________________________________________________
 The *merged-2022.csv* dataset contains key variables from both *272.csv* and *betting.csv* and was used for most if not all, visualizations in folder *viz*.
 
-note: the dataset from which *272.csv* was derived only includes data on the 2022 regular season; the remaining playoff data was added when merging with *betting.csv*
+note: the dataset from which *272.csv* was derived only includes data on the 2022 regular season; the remaining playoff data was imputed when merging with *betting.csv*
 
 note: when analyzing game spreads, you view it in the context of the favored team (see below)
 ______________________________________________________________________________________________________________________________________________________
