@@ -1,6 +1,6 @@
 # Betting and Team stats for the 2022 NFL season **incomplete
 
-Raw data (*raw_data*) acquired and derived from: 
+Raw data (*raw_data*) acquired then merged/altered from: 
 
 272: https://www.kaggle.com/datasets/ruendymendozachavez/nfl-2023-season-dataset (nfl_2023_game_results.csv)
 
