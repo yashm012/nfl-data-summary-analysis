@@ -1,6 +1,6 @@
 # Betting and Team stats for the 2022 NFL season **incomplete
 
-Raw data acquired then altered from: 
+Raw data acquired and altered from: 
 
 https://www.sportsoddshistory.com/nfl-game-season/?y=2022
 
