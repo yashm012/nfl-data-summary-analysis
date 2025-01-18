@@ -1,17 +1,9 @@
 # Betting and Team stats for the 2022 NFL season **incomplete
 
-Raw data (*raw_data*) acquired then merged/altered from: 
+Raw data acquired then altered from: 
 
-272: https://www.kaggle.com/datasets/ruendymendozachavez/nfl-2023-season-dataset (nfl_2023_game_results.csv)
-
-betting: https://www.kaggle.com/datasets/tobycrabtree/nfl-scores-and-betting-data?select=spreadspoke_scores.csv (spreadspoke_scores.csv)
-
-note: the first dataset says '2023-season', but this is mislabeled, as it contains the games/scores from the 2022 season, which ended in early 2023
+https://www.sportsoddshistory.com/nfl-game-season/?y=2022
 ______________________________________________________________________________________________________________________________________________________
-
-The *merged-2022.csv* dataset contains key variables from both *272.csv* and *betting.csv* and was used for most if not all, visualizations in folder *viz*.
-
-note: the dataset from which *272.csv* was derived only includes data on the 2022 regular season; the remaining playoff data was imputed when merging with *betting.csv*
 
 note: when analyzing game spreads, you view it in the context of the favored team (see below)
 ______________________________________________________________________________________________________________________________________________________
