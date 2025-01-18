@@ -4,6 +4,9 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 data = pd.read_csv('2022.csv')
+reg_season_data = data[data['game_id'] <= 272]
+playoff_data = data[data['game_id'] >= 273]
+
 data['total_score'] = data['home_score'] + data['away_score']
 data['over_under_result'] = data['total_score'] - data['over_under']
 data['game_result'] = np.where(data['over_under_result'] > 0, 'Over', 'Under')
@@ -14,9 +17,6 @@ playoff_game_ids = data[data['game_id'] >= 273]['game_id'].unique()
 # Get a list of unique playoff teams (both home and away)
 playoff_teams = pd.concat([data[data['game_id'].isin(playoff_game_ids)]['home_team'],
                          data[data['game_id'].isin(playoff_game_ids)]['away_team']]).unique()
-
-reg_season_data = data[data['game_id'] <= 272]
-playoff_data = data[data['game_id'] >= 273]
 
 # Countplot; reg_season_o/u.png
 plt.figure(figsize=(8, 6))
