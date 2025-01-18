@@ -3,6 +3,8 @@
 Raw data acquired then altered from: 
 
 https://www.sportsoddshistory.com/nfl-game-season/?y=2022
+
+https://www.pro-football-reference.com/years/2022/games.htm
 ______________________________________________________________________________________________________________________________________________________
 
 note: when analyzing game spreads, you view it in the context of the favored team (see below)
