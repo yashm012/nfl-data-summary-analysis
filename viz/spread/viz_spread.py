@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-data = pd.read_csv('merged-2022.csv')
+data = pd.read_csv('2022.csv')
 data['total_score'] = data['home_score'] + data['away_score']
 data['over_under_result'] = data['total_score'] - data['over_under']
 data['game_result'] = np.where(data['over_under_result'] > 0, 'Over', 'Under')
