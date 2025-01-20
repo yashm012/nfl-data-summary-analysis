@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-data = pd.read_csv('2022.csv')
+data = pd.read_csv('2022.csv') # Set to season dataset of interest
 reg_season_data = data[data['game_id'] <= 272]
 playoff_data = data[data['game_id'] >= 273]
 
