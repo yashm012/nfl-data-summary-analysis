@@ -1,0 +1,286 @@
+week,game_id,playoff,home_team,home_score,away_score,away_team,favorite,spread,over_under
+1,1,FALSE,Tampa Bay,31,29,Dallas,TB,-8.5,52.0
+1,2,FALSE,Atlanta,6,32,Philadelphia,ATL,-3.5,49.0
+1,3,FALSE,Buffalo,16,23,Pittsburgh,BUF,-6.5,48.5
+1,4,FALSE,Carolina,19,14,New York (J),CAR,-4.0,45.0
+1,5,FALSE,Minnesota,24,27,Cincinnati,MIN,-3.0,47.5
+1,6,FALSE,San Francisco,41,33,Detroit,SF,-9.0,45.5
+1,7,FALSE,Jacksonville,21,37,Houston,JAX,-3.0,45.0
+1,8,FALSE,Seattle,28,16,Indianapolis,SEA,-3.0,49.0
+1,9,FALSE,Tennessee,13,38,Arizona,TEN,-3.0,53.5
+1,10,FALSE,Washington,16,20,Los Angeles (C),WAS,-1.5,45.0
+1,11,FALSE,Kansas City,33,29,Cleveland,KC,-5.5,54.5
+1,12,FALSE,New England,16,17,Miami,NE,-3.0,43.5
+1,13,FALSE,Green Bay,3,38,New Orleans,GB,-3.5,49.5
+1,14,FALSE,Denver,27,13,New York (G),DEN,-3.0,41.5
+1,15,FALSE,Los Angeles (R),34,14,Chicago,LAR,-8.0,46.5
+1,16,FALSE,Baltimore,27,33,Las Vegas,BAL,-4.0,50.5
+2,17,FALSE,Washington,30,29,New York (G),WAS,-3.5,40.5
+2,18,FALSE,New Orleans,7,26,Carolina,NO,-3.0,44.5
+2,19,FALSE,Chicago,20,17,Cincinnati,CHI,-1.5,44.5
+2,20,FALSE,Cleveland,31,21,Houston,CLE,-13.5,48.0
+2,21,FALSE,Los Angeles (R),27,24,Indianapolis,LAR,-3.5,48.0
+2,22,FALSE,Denver,23,13,Jacksonville,DEN,-6.0,45.0
+2,23,FALSE,Buffalo,35,0,Miami,BUF,-3.5,47.5
+2,24,FALSE,New England,25,6,New York (J),NE,-6.0,43.0
+2,25,FALSE,San Francisco,17,11,Philadelphia,SF,-3.0,49.0
+2,26,FALSE,Pittsburgh,17,26,Las Vegas,PIT,-6.0,47.0
+2,27,FALSE,Arizona,34,33,Minnesota,ARI,-3.5,50.5
+2,28,FALSE,Tampa Bay,48,25,Atlanta,TB,-12.5,51.5
+2,29,FALSE,Los Angeles (C),17,20,Dallas,LAC,-3.0,55.0
+2,30,FALSE,Seattle,30,33,Tennessee,SEA,-6.5,54.0
+2,31,FALSE,Kansas City,35,36,Baltimore,KC,-4.0,54.5
+2,32,FALSE,Green Bay,35,17,Detroit,GB,-11.5,48.0
+3,33,FALSE,Carolina,24,9,Houston,CAR,-9.0,43.5
+3,34,FALSE,Buffalo,43,21,Washington,BUF,-7.0,45.5
+3,35,FALSE,Cleveland,26,6,Chicago,CLE,-7.5,44.5
+3,36,FALSE,Baltimore,19,17,Detroit,BAL,-7.5,50.5
+3,37,FALSE,Arizona,31,19,Jacksonville,ARI,-7.5,51.5
+3,38,FALSE,Kansas City,24,30,Los Angeles (C),KC,-7.0,54.5
+3,39,FALSE,New England,13,28,New Orleans,NE,-3.0,42.5
+3,40,FALSE,New York (G),14,17,Atlanta,NYG,-3.0,47.5
+3,41,FALSE,Pittsburgh,10,24,Cincinnati,PIT,-3.0,43.0
+3,42,FALSE,Tennessee,25,16,Indianapolis,TEN,-5.5,47.5
+3,43,FALSE,Denver,26,0,New York (J),DEN,-10.0,41.5
+3,44,FALSE,Las Vegas,31,28,Miami,LV,-4.0,44.0
+3,45,FALSE,Tampa Bay,24,34,Los Angeles (R),TB,-1.5,55.5
+3,46,FALSE,Seattle,17,30,Minnesota,SEA,-2.0,55.0
+3,47,FALSE,San Francisco,28,30,Green Bay,SF,-3.0,50.5
+3,48,FALSE,Dallas,41,21,Philadelphia,DAL,-3.5,51.5
+4,49,FALSE,Cincinnati,24,21,Jacksonville,CIN,-7.5,46.5
+4,50,FALSE,Washington,34,30,Atlanta,WAS,-2.0,48.0
+4,51,FALSE,Buffalo,40,0,Houston,BUF,-17.5,47.0
+4,52,FALSE,Chicago,24,14,Detroit,CHI,-3.0,41.5
+4,53,FALSE,Dallas,36,28,Carolina,DAL,-4.0,51.5
+4,54,FALSE,Miami,17,27,Indianapolis,MIA,-2.5,42.5
+4,55,FALSE,Cleveland,14,7,Minnesota,CLE,-1.0,51.5
+4,56,FALSE,New Orleans,21,27,New York (G),NO,-7.0,41.5
+4,57,FALSE,Tennessee,24,27,New York (J),TEN,-6.0,44.0
+4,58,FALSE,Kansas City,42,30,Philadelphia,KC,-7.0,54.5
+4,59,FALSE,Los Angeles (R),20,37,Arizona,LAR,-4.0,54.5
+4,60,FALSE,San Francisco,21,28,Seattle,SF,-2.5,52.0
+4,61,FALSE,Baltimore,23,7,Denver,BAL,-1.0,44.0
+4,62,FALSE,Green Bay,27,17,Pittsburgh,GB,-6.0,44.5
+4,63,FALSE,Tampa Bay,19,17,New England,TB,-7.0,49.5
+4,64,FALSE,Los Angeles (C),28,14,Las Vegas,LAC,-3.0,52.0
+5,65,FALSE,Los Angeles (R),26,17,Seattle,LAR,-2.5,54.5
+5,66,FALSE,Atlanta,27,20,New York (J),ATL,-2.5,45.0
+5,67,FALSE,Carolina,18,21,Philadelphia,CAR,-3.0,46.0
+5,68,FALSE,Green Bay,25,22,Cincinnati,GB,-3.0,51.0
+5,69,FALSE,New England,25,22,Houston,NE,-8.0,39.0
+5,70,FALSE,Tennessee,37,19,Jacksonville,TEN,-4.5,48.5
+5,71,FALSE,Minnesota,19,17,Detroit,MIN,-10.0,49.5
+5,72,FALSE,Denver,19,27,Pittsburgh,DEN,-1.5,39.5
+5,73,FALSE,Tampa Bay,45,17,Miami,TB,-10.0,48.0
+5,74,FALSE,New Orleans,33,22,Washington,NO,-2.5,43.5
+5,75,FALSE,Las Vegas,9,20,Chicago,LV,-5.5,45.5
+5,76,FALSE,Los Angeles (C),47,42,Cleveland,LAC,-2.5,46.5
+5,77,FALSE,Arizona,17,10,San Francisco,ARI,-5.0,48.5
+5,78,FALSE,Dallas,44,20,New York (G),DAL,-7.0,52.5
+5,79,FALSE,Kansas City,20,38,Buffalo,KC,-2.5,56.5
+5,80,FALSE,Baltimore,31,25,Indianapolis,BAL,-7.0,46.0
+6,81,FALSE,Tampa Bay,28,22,Philadelphia,TB,-7.0,52.5
+6,82,FALSE,Miami,20,23,Jacksonville,MIA,-3.0,47.0
+6,83,FALSE,Baltimore,34,6,Los Angeles (C),BAL,-2.5,51.5
+6,84,FALSE,Minnesota,34,28,Carolina,MIN,-2.5,45.5
+6,85,FALSE,Green Bay,24,14,Chicago,GB,-6.0,44.0
+6,86,FALSE,Cincinnati,34,11,Detroit,CIN,-3.5,47.0
+6,87,FALSE,Indianapolis,31,3,Houston,IND,-10.0,43.5
+6,88,FALSE,Los Angeles (R),38,11,New York (G),LAR,-9.0,48.5
+6,89,FALSE,Kansas City,31,13,Washington,KC,-7.0,54.0
+6,90,FALSE,Cleveland,14,37,Arizona,CLE,-3.5,48.5
+6,91,FALSE,Denver,24,34,Las Vegas,DEN,-4.0,43.5
+6,92,FALSE,Dallas,35,29,New England,DAL,-3.5,50.5
+6,93,FALSE,Pittsburgh,23,20,Seattle,PIT,-5.0,43.0
+6,94,FALSE,Buffalo,31,34,Tennessee,BUF,-6.0,53.5
+7,95,FALSE,Cleveland,17,14,Denver,CLE,-1.5,41.5
+7,96,FALSE,Baltimore,17,41,Cincinnati,BAL,-6.5,45.5
+7,97,FALSE,Green Bay,24,10,Washington,GB,-8.0,48.0
+7,98,FALSE,Atlanta,30,28,Miami,ATL,-2.0,47.5
+7,99,FALSE,New England,54,13,New York (J),NE,-7.0,42.5
+7,100,FALSE,Carolina,3,25,New York (G),CAR,-3.0,42.5
+7,101,FALSE,Kansas City,3,27,Tennessee,KC,-4.0,57.5
+7,102,FALSE,Las Vegas,33,22,Philadelphia,LV,-3.0,48.5
+7,103,FALSE,Los Angeles (R),28,19,Detroit,LAR,-16.5,50.5
+7,104,FALSE,Arizona,31,5,Houston,ARI,-18.0,47.5
+7,105,FALSE,Tampa Bay,38,3,Chicago,TB,-11.5,47.0
+7,106,FALSE,San Francisco,18,30,Indianapolis,SF,-4.0,42.5
+7,107,FALSE,New Orleans,13,10,Seattle,NO,-4.5,42.5
+8,108,FALSE,Arizona,21,24,Green Bay,ARI,-6.5,50.5
+8,109,FALSE,Atlanta,13,19,Carolina,ATL,-3.0,47.0
+8,110,FALSE,Buffalo,26,11,Miami,BUF,-14.0,49.0
+8,111,FALSE,San Francisco,33,22,Chicago,SF,-4.0,39.5
+8,112,FALSE,Cleveland,10,15,Pittsburgh,CLE,-4.5,43.0
+8,113,FALSE,Philadelphia,44,6,Detroit,PHI,-3.5,48.0
+8,114,FALSE,Los Angeles (R),38,22,Houston,LAR,-16.0,46.5
+8,115,FALSE,Indianapolis,31,34,Tennessee,IND,-3.0,51.0
+8,116,FALSE,Cincinnati,31,34,New York (J),CIN,-11.0,43.0
+8,117,FALSE,Los Angeles (C),24,27,New England,LAC,-4.5,49.5
+8,118,FALSE,Seattle,31,7,Jacksonville,SEA,-3.5,44.5
+8,119,FALSE,Denver,17,10,Washington,DEN,-3.5,45.0
+8,120,FALSE,Tampa Bay,27,36,New Orleans,TB,-4.5,49.0
+8,121,FALSE,Minnesota,16,20,Dallas,MIN,-3.0,51.5
+8,122,FALSE,Kansas City,20,17,New York (G),KC,-10.0,52.0
+9,123,FALSE,Indianapolis,45,30,New York (J),IND,-10.5,46.0
+9,124,FALSE,Baltimore,34,31,Minnesota,BAL,-6.0,50.5
+9,125,FALSE,New England,24,6,Carolina,NE,-3.5,41.0
+9,126,FALSE,Cincinnati,16,41,Cleveland,CIN,-2.5,47.5
+9,127,FALSE,Dallas,16,30,Denver,DAL,-10.0,48.5
+9,128,FALSE,Buffalo,6,9,Jacksonville,BUF,-14.5,48.5
+9,129,FALSE,Miami,17,9,Houston,MIA,-5.5,46.5
+9,130,FALSE,New Orleans,25,27,Atlanta,NO,-6.0,41.5
+9,131,FALSE,Las Vegas,16,23,New York (G),LV,-3.0,46.5
+9,132,FALSE,Los Angeles (C),27,24,Philadelphia,LAC,-1.5,49.0
+9,133,FALSE,Kansas City,13,7,Green Bay,KC,-7.5,48.0
+9,134,FALSE,San Francisco,17,31,Arizona,SF,-3.5,45.0
+9,135,FALSE,Los Angeles (R),16,28,Tennessee,LAR,-7.5,52.5
+9,136,FALSE,Pittsburgh,29,27,Chicago,PIT,-6.5,38.5
+10,137,FALSE,Baltimore,10,22,Miami,BAL,-7.5,46.5
+10,138,FALSE,Dallas,43,3,Atlanta,DAL,-8.0,55.0
+10,139,FALSE,Indianapolis,23,17,Jacksonville,IND,-10.0,47.5
+10,140,FALSE,New England,45,7,Cleveland,NE,-2.5,45.0
+10,141,FALSE,Buffalo,45,17,New York (J),BUF,-13.0,47.5
+10,142,FALSE,Pittsburgh,16,16,Detroit,PIT,-6.0,41.0
+10,143,FALSE,Tennessee,23,21,New Orleans,TEN,-3.0,44.0
+10,144,FALSE,Tampa Bay,19,29,Washington,TB,-9.5,51.0
+10,145,FALSE,Arizona,10,34,Carolina,ARI,-10.5,43.0
+10,146,FALSE,Los Angeles (C),20,27,Minnesota,LAC,-3.0,53.5
+10,147,FALSE,Denver,13,30,Philadelphia,DEN,-2.0,46.0
+10,148,FALSE,Green Bay,17,0,Seattle,GB,-3.5,49.5
+10,149,FALSE,Kansas City,41,14,Las Vegas,KC,-2.5,52.0
+10,150,FALSE,Los Angeles (R),10,31,San Francisco,LAR,-4.0,49.5
+11,151,FALSE,New England,25,0,Atlanta,NE,-7.0,47.0
+11,152,FALSE,Buffalo,15,41,Indianapolis,BUF,-7.0,49.5
+11,153,FALSE,Carolina,21,27,Washington,CAR,-3.5,43.0
+11,154,FALSE,Baltimore,16,13,Chicago,BAL,-5.0,43.5
+11,155,FALSE,Cleveland,13,10,Detroit,CLE,-12.5,42.5
+11,156,FALSE,San Francisco,30,10,Jacksonville,SF,-6.5,45.0
+11,157,FALSE,Green Bay,31,34,Minnesota,GB,-1.0,47.0
+11,158,FALSE,Miami,24,17,New York (J),MIA,-3.5,44.5
+11,159,FALSE,Philadelphia,40,29,New Orleans,PHI,-2.5,42.5
+11,160,FALSE,Tennessee,13,22,Houston,TEN,-10.0,44.5
+11,161,FALSE,Cincinnati,32,13,Las Vegas,CIN,-1.0,50.5
+11,162,FALSE,Kansas City,19,9,Dallas,KC,-2.5,56.5
+11,163,FALSE,Seattle,13,23,Arizona,SEA,-2.5,47.0
+11,164,FALSE,Los Angeles (C),41,37,Pittsburgh,LAC,-5.5,47.5
+11,165,FALSE,Tampa Bay,30,10,New York (G),TB,-11.0,50.0
+12,166,FALSE,Chicago,16,14,Detroit,CHI,-3.0,41.0
+12,167,FALSE,Dallas,33,36,Las Vegas,DAL,-7.5,51.5
+12,168,FALSE,Buffalo,31,6,New Orleans,BUF,-6.5,45.0
+12,169,FALSE,Cincinnati,41,10,Pittsburgh,CIN,-3.5,44.0
+12,170,FALSE,Houston,14,21,New York (J),HOU,-2.5,44.5
+12,171,FALSE,Tampa Bay,38,31,Indianapolis,TB,-3.0,53.5
+12,172,FALSE,Atlanta,21,14,Jacksonville,ATL,-2.0,45.5
+12,173,FALSE,Carolina,10,33,Miami,CAR,-2.5,42.0
+12,174,FALSE,New England,36,13,Tennessee,NE,-7.0,43.5
+12,175,FALSE,Philadelphia,7,13,New York (G),PHI,-3.5,45.5
+12,176,FALSE,Los Angeles (C),13,28,Denver,LAC,-3.0,47.0
+12,177,FALSE,Los Angeles (R),28,36,Green Bay,LAR,-2.0,46.5
+12,178,FALSE,San Francisco,34,26,Minnesota,SF,-3.5,49.0
+12,179,FALSE,Baltimore,16,10,Cleveland,BAL,-3.5,47.0
+12,180,FALSE,Washington,17,15,Seattle,WAS,,47.0
+13,181,FALSE,Dallas,27,17,New Orleans,DAL,-5.0,47.5
+13,182,FALSE,Tampa Bay,30,17,Atlanta,TB,-10.5,50.5
+13,183,FALSE,Arizona,33,22,Chicago,ARI,-7.5,42.0
+13,184,FALSE,Cincinnati,22,41,Los Angeles (C),CIN,-3.0,49.5
+13,185,FALSE,Minnesota,27,29,Detroit,MIN,-7.0,46.5
+13,186,FALSE,Indianapolis,31,0,Houston,IND,-10.0,44.5
+13,187,FALSE,Miami,20,9,New York (G),MIA,-6.5,39.5
+13,188,FALSE,Philadelphia,33,18,New York (J),PHI,-5.0,43.5
+13,189,FALSE,San Francisco,23,30,Seattle,SF,-3.5,45.5
+13,190,FALSE,Las Vegas,15,17,Washington,LV,-1.5,48.0
+13,191,FALSE,Los Angeles (R),37,7,Jacksonville,LAR,-13.0,48.0
+13,192,FALSE,Baltimore,19,20,Pittsburgh,BAL,-4.5,44.0
+13,193,FALSE,Kansas City,22,9,Denver,KC,-9.5,47.0
+13,194,FALSE,Buffalo,10,14,New England,BUF,-2.5,41.0
+14,195,FALSE,Minnesota,36,28,Pittsburgh,MIN,-3.0,44.0
+14,196,FALSE,Carolina,21,29,Atlanta,CAR,-2.5,41.0
+14,197,FALSE,San Francisco,26,23,Cincinnati,SF,-1.5,49.0
+14,198,FALSE,Cleveland,24,22,Baltimore,CLE,-3.0,42.5
+14,199,FALSE,Seattle,33,13,Houston,SEA,-9.0,40.5
+14,200,FALSE,Kansas City,48,9,Las Vegas,KC,-10.0,48.0
+14,201,FALSE,New Orleans,30,9,New York (J),NO,-5.5,43.0
+14,202,FALSE,Tennessee,20,0,Jacksonville,TEN,-8.5,43.5
+14,203,FALSE,Dallas,27,20,Washington,DAL,-4.5,48.0
+14,204,FALSE,Denver,38,10,Detroit,DEN,-11.0,42.0
+14,205,FALSE,Los Angeles (C),37,21,New York (G),LAC,-9.0,43.0
+14,206,FALSE,Tampa Bay,33,27,Buffalo,TB,-3.5,54.5
+14,207,FALSE,Green Bay,45,30,Chicago,GB,-11.5,43.0
+14,208,FALSE,Arizona,23,30,Los Angeles (R),ARI,-2.5,51.5
+15,209,FALSE,Kansas City,34,28,Los Angeles (C),KC,-3.0,52.5
+15,210,FALSE,Indianapolis,27,17,New England,IND,-2.5,45.5
+15,211,FALSE,Green Bay,31,30,Baltimore,GB,-9.5,45.0
+15,212,FALSE,Buffalo,31,14,Carolina,BUF,-14.5,43.0
+15,213,FALSE,Arizona,12,30,Detroit,ARI,-13.0,48.0
+15,214,FALSE,Jacksonville,16,30,Houston,JAX,-6.0,40.0
+15,215,FALSE,Miami,31,24,New York (J),MIA,-10.0,42.0
+15,216,FALSE,Dallas,21,6,New York (G),DAL,-11.5,43.5
+15,217,FALSE,Pittsburgh,19,13,Tennessee,PIT,-1.0,44.0
+15,218,FALSE,Denver,10,15,Cincinnati,DEN,-3.0,44.0
+15,219,FALSE,San Francisco,31,13,Atlanta,SF,-8.5,48.0
+15,220,FALSE,Tampa Bay,0,9,New Orleans,TB,-11.5,45.5
+15,221,FALSE,Cleveland,14,16,Las Vegas,CLE,-3.0,41.0
+15,222,FALSE,Minnesota,17,9,Chicago,MIN,-6.5,44.5
+15,223,FALSE,Los Angeles (R),20,10,Seattle,LAR,-7.0,46.0
+15,224,FALSE,Philadelphia,27,17,Washington,PHI,-6.5,42.0
+16,225,FALSE,San Francisco,17,20,Tennessee,SF,-3.5,44.0
+16,226,FALSE,Green Bay,24,22,Cleveland,GB,-7.5,46.5
+16,227,FALSE,Arizona,16,22,Indianapolis,ARI,-2.0,49.0
+16,228,FALSE,Atlanta,20,16,Detroit,ATL,-6.5,42.0
+16,229,FALSE,Tampa Bay,32,6,Carolina,TB,-9.5,43.0
+16,230,FALSE,Cincinnati,41,21,Baltimore,CIN,-7.0,41.5
+16,231,FALSE,Los Angeles (C),29,41,Houston,LAC,-11.0,45.5
+16,232,FALSE,Los Angeles (R),30,23,Minnesota,LAR,-3.5,49.0
+16,233,FALSE,New England,21,33,Buffalo,NE,-1.5,43.5
+16,234,FALSE,New York (J),26,21,Jacksonville,NYJ,-1.5,41.0
+16,235,FALSE,Philadelphia,34,10,New York (G),PHI,-10.0,40.5
+16,236,FALSE,Seattle,24,25,Chicago,SEA,-6.5,41.5
+16,237,FALSE,Kansas City,36,10,Pittsburgh,KC,-10.0,46.0
+16,238,FALSE,Las Vegas,17,13,Denver,LV,,41.0
+16,239,FALSE,Dallas,56,14,Washington,DAL,-10.0,46.5
+16,240,FALSE,Miami,20,3,New Orleans,MIA,-2.5,37.5
+17,241,FALSE,Buffalo,29,15,Atlanta,BUF,-14.5,44.0
+17,242,FALSE,Chicago,29,3,New York (G),CHI,-6.5,36.5
+17,243,FALSE,Kansas City,31,34,Cincinnati,KC,-4.0,51.5
+17,244,FALSE,Dallas,22,25,Arizona,DAL,-6.5,52.5
+17,245,FALSE,Indianapolis,20,23,Las Vegas,IND,-8.0,45.0
+17,246,FALSE,New England,50,10,Jacksonville,NE,-16.5,41.5
+17,247,FALSE,New Orleans,18,10,Carolina,NO,-6.5,37.5
+17,248,FALSE,Tampa Bay,28,24,New York (J),TB,-13.5,45.5
+17,249,FALSE,Tennessee,34,3,Miami,TEN,-3.0,40.0
+17,250,FALSE,Philadelphia,20,16,Washington,PHI,-4.5,44.5
+17,251,FALSE,Los Angeles (C),34,13,Denver,LAC,-7.5,45.0
+17,252,FALSE,San Francisco,23,7,Houston,SF,-12.5,43.5
+17,253,FALSE,Los Angeles (R),20,19,Baltimore,LAR,-6.0,46.5
+17,254,FALSE,Seattle,51,29,Detroit,SEA,-7.0,41.5
+17,255,FALSE,Green Bay,37,10,Minnesota,GB,-13.0,42.5
+17,256,FALSE,Pittsburgh,26,14,Cleveland,PIT,-2.0,42.0
+18,257,FALSE,Kansas City,28,24,Denver,KC,-11.0,45.0
+18,258,FALSE,Dallas,51,26,Philadelphia,DAL,-4.0,43.5
+18,259,FALSE,New Orleans,30,20,Atlanta,NO,-3.5,40.0
+18,260,FALSE,Baltimore,13,16,Pittsburgh,BAL,-3.5,41.0
+18,261,FALSE,Buffalo,27,10,New York (J),BUF,-16.5,40.5
+18,262,FALSE,Cleveland,21,16,Cincinnati,CLE,-5.5,37.0
+18,263,FALSE,Green Bay,30,37,Detroit,GB,-3.0,44.5
+18,264,FALSE,Tennessee,28,25,Houston,TEN,-10.5,42.5
+18,265,FALSE,Indianapolis,11,26,Jacksonville,IND,-15.0,43.5
+18,266,FALSE,New England,24,33,Miami,NE,-6.0,40.0
+18,267,FALSE,Minnesota,31,17,Chicago,MIN,-4.0,44.5
+18,268,FALSE,Washington,22,7,New York (G),WAS,-7.0,37.5
+18,269,FALSE,Tampa Bay,41,17,Carolina,TB,-9.0,41.5
+18,270,FALSE,Arizona,30,38,Seattle,ARI,-5.5,48.0
+18,271,FALSE,Los Angeles (C),32,35,Las Vegas,LAC,-3.0,49.0
+18,272,FALSE,Los Angeles (R),24,27,San Francisco,LAR,-3.5,44.5
+AFC Wild Card,273,TRUE,Cincinnati,26,19,Las Vegas,CIN,-5.5,49.0
+AFC Wild Card,274,TRUE,Buffalo,47,17,New England,BUF,-4.0,44.0
+NFC Wild Card,275,TRUE,Tampa Bay,31,15,Philadelphia,TB,-8.5,45.5
+NFC Wild Card,276,TRUE,Dallas,17,23,San Francisco,DAL,-3.0,51.0
+AFC Wild Card,277,TRUE,Kansas City,42,21,Pittsburgh,KC,-12.5,46.5
+NFC Wild Card,278,TRUE,Los Angeles (R),34,11,Arizona,LAC,-3.5,49.5
+AFC Divisional,279,TRUE,Tennessee,16,19,Cincinnati,TEN,-4.0,47.5
+NFC Divisional,280,TRUE,Green Bay,10,13,San Francisco,GB,-5.5,47.0
+NFC Divisional,281,TRUE,Tampa Bay,27,30,Los Angeles (R),TB,-3.0,48.0
+AFC Divisional,282,TRUE,Kansas City,42,36,Buffalo,KC,-2.0,54.5
+AFC Championship,283,TRUE,Kansas City,24,27,Cincinnati,KC,-7.0,55.0
+NFC Championship,284,TRUE,Los Angeles (R),20,17,San Francisco,LAC,-3.5,46.0
+Super Bowl LVI,285,TRUE,Los Angeles (R),23,20,Cincinnati,LAC,-4.5,48.5
