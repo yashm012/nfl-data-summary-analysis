@@ -1,6 +1,6 @@
 # NFL team and betting stats 2021-2023 **incomplete
 
-Raw data for all 3 years acquired from: 
+Raw data for all 3 years were acquired from: 
 
 https://www.sportsoddshistory.com/nfl-game-season/?y=2021
 
@@ -9,7 +9,7 @@ ________________________________________________________________________________
 
 note: when analyzing game spreads, you view it in the context of the favored team (see below)
 
-note: all odds in *2022.csv* are specifically **closing** lines; spreads and over/under's change frequently leading up to a game, depending on how heavily bettors place bets in either direction and closing odds means that all lines present were the last lines offered to bettors before the game started
+note: all odds in *2021-23.csv* are specifically **closing** lines; spreads and over/under's change frequently leading up to a game, depending on how heavily bettors place bets in either direction and closing odds means that all lines present were the last lines offered to bettors before the game started
 ______________________________________________________________________________________________________________________________________________________
 
 key terms:
