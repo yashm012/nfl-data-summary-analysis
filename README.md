@@ -2,9 +2,11 @@
 
 Raw data for all 3 years were acquired from: 
 
-https://www.sportsoddshistory.com/nfl-game-season/?y=2021
+https://www.sportsoddshistory.com/nfl-game-season/?y={year}
 
-https://www.pro-football-reference.com/years/2021/games.htm
+https://www.pro-football-reference.com/years/{year}/games.htm
+
+**change {year} to season of interest; this repo contains data from seasons after the establishment of the 17-game NFL season, the first season being in 2021
 ______________________________________________________________________________________________________________________________________________________
 
 note: when analyzing game spreads, you view it in the context of the favored team (see below)
