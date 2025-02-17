@@ -9,9 +9,11 @@ https://www.pro-football-reference.com/years/{year}/games.htm
 **change {year} to season of interest; this repo contains data from seasons after the establishment of the 17-game NFL season, the first season being in 2021
 ______________________________________________________________________________________________________________________________________________________
 
+note: data including and after the 2021 NFL season has been chosen because the league introduced a 17th game starting in 2021
+
 note: when analyzing game spreads, you view it in the context of the favored team (see below)
 
-note: all odds in *2021-23.csv* are specifically **closing** lines; spreads and over/under's change frequently leading up to a game, depending on how heavily bettors place bets in either direction and closing odds means that all lines present were the last lines offered to bettors before the game started
+note: all odds in *2021-24.csv* are specifically **closing** lines; spreads and over/under's change frequently leading up to a game, depending on how heavily bettors place bets in either direction and closing odds means that all lines present were the last lines offered to bettors before the game started
 ______________________________________________________________________________________________________________________________________________________
 
 key terms:
