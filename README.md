@@ -1,6 +1,6 @@
-# NFL team and betting stats 2021-2023 **incomplete
+# NFL team and betting stats 2021-2024 **incomplete
 
-Raw data for all 3 years were acquired from: 
+Raw data for all 4 years were acquired from: 
 
 https://www.sportsoddshistory.com/nfl-game-season/?y={year}
 
