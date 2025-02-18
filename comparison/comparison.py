@@ -335,3 +335,64 @@ team_classification_df = pd.DataFrame(
     list(team_classifications.items()), columns=["Team", "Classification"]
 )
 print(team_classification_df)
+
+!pip install plotly==5.15.0
+import plotly.express as px
+
+# Create a list of years
+years = [2021, 2022, 2023, 2024]
+
+# Create an empty list to store the data for the chart
+chart_data = []
+
+# Iterate through the years and teams to accumulate the data
+for year, wins_df in zip(years, [wins_2021, wins_2022, wins_2023, wins_2024]):
+    for team in wins_df['team']:
+        wins = wins_df.loc[wins_df['team'] == team, 'wins'].values[0]
+        chart_data.append([team, year, wins])
+
+# Create a Pandas DataFrame from the chart data
+df_chart = pd.DataFrame(chart_data, columns=['Team', 'Year', 'Wins'])
+
+# Calculate total wins for each team across all seasons
+df_chart['Total Wins'] = df_chart.groupby('Team')['Wins'].transform('sum')
+
+# Create a list of unique teams
+teams = df_chart['Team'].unique()
+
+# Convert 'Year' column to integer type and filter out non-integer values
+df_chart['Year'] = pd.to_numeric(df_chart['Year'], errors='coerce').astype('Int64')  # Convert to numeric, handling errors
+df_chart = df_chart[df_chart['Year'].notna()]  # Filter out NaN values (introduced by errors)
+
+# Create a 'Playoffs' column indicating whether the team made the playoffs in that year
+df_chart['Playoffs'] = df_chart.apply(lambda row: row['Team'] in globals()[f'playoff_teams_{row["Year"]}'], axis=1)
+
+# Create an interactive bar chart with a dropdown for team selection
+fig = px.bar(df_chart, x='Year', y='Wins', 
+             color='Year', 
+             animation_frame='Team',  
+             title='Regular Season Wins by Team (2021-2024)',
+             labels={'Wins': 'Regular Season Wins', 'Year': 'Season'},
+             hover_data=['Total Wins', 'Playoffs'],  # Include Playoffs in hover data
+             category_orders={'Team': teams})
+             
+
+# Update layout for better visualization
+fig.update_layout(barmode='stack',
+                  xaxis={'categoryorder': 'total descending'},
+                  legend_title_text='Season',
+                  yaxis_range=[0, df_chart['Wins'].max() + 2])  # Set y-axis range
+
+# Customize the animation buttons
+fig.update_layout(updatemenus=[
+    dict(
+        type="buttons",
+        buttons=[dict(label="Play", method="animate", args=[None]),
+                 dict(label="Pause", method="animate", args=[None, {"frame": {"duration": 1, "redraw": False},
+                                                                  "mode": "immediate",
+                                                                  "transition": {"duration": 0}}])],
+    )
+])
+
+# Show the chart
+fig.show()
