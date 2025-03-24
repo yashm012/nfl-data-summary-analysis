@@ -1,4 +1,4 @@
-# NFL team and betting stats 2017-2024 **incomplete
+# NFL team and betting stats 2017-2024
 
 Raw data for all 8 years were acquired from: 
 
